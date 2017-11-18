@@ -1,7 +1,8 @@
 version: '2'
 services:
   app:
-    image: app-python
+    build: .      
+    image: buildpack-deps:jessie
     volumes:
       - ./:/code/
     tty: true

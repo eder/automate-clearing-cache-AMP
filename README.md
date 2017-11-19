@@ -1,7 +1,7 @@
 # automate-clearing-cache-AMP
 
 
-##Run docker
+## Run docker
 
 `$ docker-compose build`
 
@@ -9,11 +9,11 @@
 `$ docker-compose run --rm app /bin/bash`
 
 
-##Run python 
+## Run python 
 `# python main.py`
 
 
-##Run python in background 
+## Run python in background 
 `# nohup python main.py &`
 
 

@@ -2,7 +2,7 @@ import csv
 import requests
 from multiprocessing.dummy import Pool as ThreadPool
 
-BASE_PATH = 'https://cdn.ampproject.org/update-ping/c/s/m.magazineluiza.com.br'
+BASE_PATH = 'https://cdn.ampproject.org/update-ping/c/s/x.x.x.x.x'
 THREADS = 50
 
 def clearCacheAMP(url):
